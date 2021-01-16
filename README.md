@@ -1,2 +1,2 @@
-# Lesson Algorithms Примеры кодов.
+# Lesson Algorithms Примеры кодов.Python
 
